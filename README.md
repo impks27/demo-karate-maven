@@ -93,7 +93,7 @@ to be able to run them from both the command-line and the IDE.
 
 #### Running the Unit and Spring integration test
 
-From the IntelliJ IDE, right click on `/test/java/com.daasworld.hellokarate` and "Run all tests"
+From the IntelliJ IDE, right click on `/test/java/com.example.demokaratemaven` and "Run all tests"
 From the command line, run 
 ```
 $ mvn test
